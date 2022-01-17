@@ -1,0 +1,8 @@
+C:\Users\Миша\source\repos\3.10task\3.10task\bin\Debug\3.10task.exe.config
+C:\Users\Миша\source\repos\3.10task\3.10task\bin\Debug\3.10task.exe
+C:\Users\Миша\source\repos\3.10task\3.10task\bin\Debug\3.10task.pdb
+C:\Users\Миша\source\repos\3.10task\3.10task\obj\Debug\3.10task.csproj.AssemblyReference.cache
+C:\Users\Миша\source\repos\3.10task\3.10task\obj\Debug\3.10task.csproj.SuggestedBindingRedirects.cache
+C:\Users\Миша\source\repos\3.10task\3.10task\obj\Debug\3.10task.csproj.CoreCompileInputs.cache
+C:\Users\Миша\source\repos\3.10task\3.10task\obj\Debug\3.10task.exe
+C:\Users\Миша\source\repos\3.10task\3.10task\obj\Debug\3.10task.pdb
